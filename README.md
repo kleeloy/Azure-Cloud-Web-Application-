@@ -1,4 +1,4 @@
-# Project-1
+# Project-1-Cyber Blog
 General Questions
 
 What option did you select for your domain (Azure free domain,  GoDaddy domain)?
