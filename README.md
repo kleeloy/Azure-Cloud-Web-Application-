@@ -22,7 +22,7 @@ What option did you select for your domain (Azure free domain,  GoDaddy domain)?
  Azure free domain
 
 
-What is your domain name?
+#What is your domain name?
 
 Kenyettassecurityblog.azurewebsites.net
 
