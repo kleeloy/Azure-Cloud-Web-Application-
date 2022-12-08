@@ -1,8 +1,11 @@
-# Wordpress on Azure (using Bitnami)
-The files for this repository were used to create a blog web application.
+# Creating A Web Application Using Azure 
+The files for this repository were used to create a blog web application and securing with a SCL certification
 
-# Setting Up The Virtual Machine 
-Start by creating a resource, search for Wordpress (by Bitnami) 
+# Your Web Application 
+Enter the URL for the web application that you created: https://kenyettassecurityblog.azurewebsites.net/
+
+
+
 ![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Github%20set%20up%20wordpress.png)
 
 Creat a new name for this resource and remember which location you use, Review and create.
