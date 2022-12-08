@@ -1,7 +1,7 @@
 # Creating A Web Application Using Azure 
 The files for this repository were used to create a blog web application and securing with a SCL certification
 
-# Your Web Application 
+## Your Web Application 
 URL for the web application that was created https://kenyettassecurityblog.azurewebsites.net/
 
 ![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%20part%201.png)
@@ -11,52 +11,23 @@ URL for the web application that was created https://kenyettassecurityblog.azure
 ![BLOG_IMAGE_3](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%201%20blog%20post%202.png)
 
 
-###### This is an <h6> header, which is the smallest
- Azure free domain
+## NetWorking QUestions 
 
-
-# What is your domain name?
-
-Kenyettassecurityblog.azurewebsites.net
-
-
-Networking Questions
-
-What is the IP address of your webpage?
+What is the IP address of this webpage?
 
 20.90.134.16
 
-
-What is the location (city, state, country) of your IP address?
+What is the location (city, state, country) of this IP address?
 
 Londan, England
 
-
-Run a DNS lookup on your website. What does the NS record show?
-
-The name server for that domain 
-
-
-Web Development Questions
+## Web Devolpment Questions
 
 When creating your web app, you selected a runtime stack.  What was it? Does it work on the front end or the back end? 
 
 PHP 7.4, Back end
 
-
-Inside the /var/www/html directory, there was another directory called assets. Explain what was inside that directory.
-A useful thing, valuable or quality.
-
-
-Consider your response to the above question. Does this work with the front end or back end?
-
-Back end
-
-
-
-Day 2 Questions
-
-Cloud Questions
+## Cloud Questions
 
 What is a cloud tenant?
 
@@ -73,7 +44,7 @@ Within the key vault, what are the differences between keys, secrets, and certif
 Keys are cryptographic keys that can be generated using various algorithms. Certificates are keys with optional policies such as auto rotation. Think of secrets as passwords and connection strings.
 
 
-Cryptography Questions
+## Cryptography Questions
 
 What are the advantages of a self-signed certificate?
 
@@ -108,10 +79,6 @@ Monday, March 14, 2022 at 12:39:55 PM
 Expires On
 Thursday, March 9, 2023 at 11:39:55 AM
 
-
-
-
-
 Do you have an intermediate certificate? If so, what is it?
 
 no
@@ -132,10 +99,7 @@ List one other root CA in your browser’s root store.
 GTS CA 1C3
 
 
-
-Day 3 Questions
-
-Cloud Security Questions 
+## Cloud Security Questions 
 
 What are the similarities and differences between Azure Web Application Gateway and Azure Front Door?
 
@@ -160,6 +124,9 @@ SQL injection is a computer attack in which malicious code is embedded in a poor
 Consider the rule that you selected. Could your website (as it is currently designed) be impacted by this vulnerability if Front Door wasn’t enabled? Why or why not?
 
 Yes because the attacker is able to influence the queries sent by a website to a database. This will enable the attacker to extract information from the database or change the contents of the database through, something like, a simple query.
+
+# What Is Included With My Website 
+## Azure Front Door enabled
 
 
 
