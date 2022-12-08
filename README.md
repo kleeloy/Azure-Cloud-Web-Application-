@@ -2,14 +2,13 @@
 The files for this repository were used to create a blog web application and securing with a SCL certification
 
 # Your Web Application 
-Enter the URL for the web application that you created: https://kenyettassecurityblog.azurewebsites.net/
+URL for the web application that was created https://kenyettassecurityblog.azurewebsites.net/
 
+![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%20part%201.png)
 
+![BLOG_IMAGE_2](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%201%20blog%20post%202.png)
 
-![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Github%20set%20up%20wordpress.png)
-
-Creat a new name for this resource and remember which location you use, Review and create.
-![BLOG_IMAGE_2](https://github.com/kleeloy/Project-1/blob/main/Diagrams/create%20VM%20Wordpress%20github%20demo.png)
+![BLOG_IMAGE_3](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%201%20blog%20post%202.png)
 
 
 ###### This is an <h6> header, which is the smallest
