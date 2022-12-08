@@ -6,7 +6,7 @@ Start by creating a resource, search for Wordpress (by Bitnami)
 ![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Github%20set%20up%20wordpress.png)
 
 Creat a new name for this resource and remember which location you use to stay constant throughout. Once it's to your liking, Save and create.
-
+![BLOG_IMAGE_2](https://github.com/kleeloy/Project-1/blob/main/Diagrams/create%20VM%20Wordpress%20github%20demo.png)
 
 
 ###### This is an <h6> header, which is the smallest
@@ -160,4 +160,4 @@ Consider the rule that you selected. Could your website (as it is currently desi
 Yes because the attacker is able to influence the queries sent by a website to a database. This will enable the attacker to extract information from the database or change the contents of the database through, something like, a simple query.
 
 
-![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%201%20blog%20post%202.png)
+
