@@ -1,4 +1,4 @@
-# Securing Cloud Application
+# Wordpress on Azure (using Bitnami)
 The files for this repository were used to create a blog web application.
 
 # This is an <h1> header, which is the largest
