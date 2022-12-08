@@ -13,7 +13,7 @@ URL for the web application that was created https://kenyettassecurityblog.azure
 
 ## NetWorking QUestions 
 
-What is the IP address of this webpage?
+###### What is the IP address of this webpage?
 
 20.90.134.16
 
@@ -127,6 +127,8 @@ Yes because the attacker is able to influence the queries sent by a website to a
 
 # What Is Included With My Website 
 ## Azure Front Door enabled
+![BLOG_IMAGE_3](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%20day%203%20part%201.png)
+![BLOG_IMAGE_4](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Project%20day%203%20part%202.png)
 
 
 
