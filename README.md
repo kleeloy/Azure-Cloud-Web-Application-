@@ -2,7 +2,8 @@
 The files for this repository were used to create a blog web application.
 
 # Setting Up The Virtual Machine 
-## Start by creating a resource <h2> header
+Start by creating a resource, search for Wordpress (by Bitnami) and create a new name for this resource, Save and create
+
 ###### This is an <h6> header, which is the smallest
  Azure free domain
 
@@ -37,7 +38,6 @@ PHP 7.4, Back end
 
 
 Inside the /var/www/html directory, there was another directory called assets. Explain what was inside that directory.
-
 A useful thing, valuable or quality.
 
 
