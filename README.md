@@ -5,7 +5,7 @@ The files for this repository were used to create a blog web application.
 Start by creating a resource, search for Wordpress (by Bitnami) 
 ![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Github%20set%20up%20wordpress.png)
 
-Creat a new name for this resource and remember which location you use to stay constant throughout. Once it's to your liking, Save and create.
+Creat a new name for this resource and remember which location you use, Review and create.
 ![BLOG_IMAGE_2](https://github.com/kleeloy/Project-1/blob/main/Diagrams/create%20VM%20Wordpress%20github%20demo.png)
 
 
