@@ -2,9 +2,12 @@
 The files for this repository were used to create a blog web application.
 
 # Setting Up The Virtual Machine 
-Start by creating a resource, search for Wordpress (by Bitnami) and create a new name for this resource, Save and create
-
+Start by creating a resource, search for Wordpress (by Bitnami) 
 ![BLOG_IMAGE_1](https://github.com/kleeloy/Project-1/blob/main/Diagrams/Github%20set%20up%20wordpress.png)
+
+Creat a new name for this resource and remember which location you use to stay constant throughout. Once it's to your liking, Save and create.
+
+
 
 ###### This is an <h6> header, which is the smallest
  Azure free domain
