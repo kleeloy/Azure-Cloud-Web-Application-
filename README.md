@@ -1,8 +1,8 @@
 # Wordpress on Azure (using Bitnami)
 The files for this repository were used to create a blog web application.
 
-# Setting Up The Virtual Machine <h1> header, which is the largest
-## This is an <h2> header
+# Setting Up The Virtual Machine 
+## Start by creating a resource <h2> header
 ###### This is an <h6> header, which is the smallest
  Azure free domain
 
