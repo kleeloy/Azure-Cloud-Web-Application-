@@ -1,3 +1,4 @@
+![BLOG_IMAGE_1](https://github.com/kleeloy/Azure-Cloud-Web-Application-/blob/main/Diagrams/github.png)
 # Creating A Web Application Using Azure 
 The files for this repository were used to create a blog web application and securing with a SCL certification
 
