@@ -4,7 +4,7 @@ This tutorial outlines how to build, host, and design a web application using Az
 
 ## Environments and Technologies Used 
 
-- Microsoft zure (web app)
+- Microsoft Azure (web app)
 - Domain name
 - Container for the web app
 
